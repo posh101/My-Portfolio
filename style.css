@@ -29,7 +29,7 @@ body {
 .section {
   display: flex;
   background-color: #1c1a19;
-  background-image: url(./images/Colorcard-hex_1c1a19-www.colorbook.io.png);
+  background-image: url(./images/icon.png);
   background-repeat: no-repeat;
   background-position: right bottom;
   flex-direction: column;
@@ -95,9 +95,3 @@ body {
   line-height: 67px;
 }
 
-.side-image {
-  position: relative;
-  float: right;
-  bottom: 220px;
-  left: 25px;
-}
