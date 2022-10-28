@@ -29,7 +29,7 @@ body {
 .section {
   display: flex;
   background-color: #1c1a19;
-  background-image: url(./images/bg-img.png);
+  background-image: url(./images/Colorcard-hex_1c1a19-www.colorbook.io.png);
   background-repeat: no-repeat;
   background-position: right bottom;
   flex-direction: column;
@@ -91,4 +91,11 @@ body {
 .social {
   height: 20px;
   width: 20px;
+}
+
+.side-image {
+  position: relative;
+  float: right;
+  bottom: 100px;
+  left: 30px;
 }
