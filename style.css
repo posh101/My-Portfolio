@@ -2,10 +2,18 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Crete Round', serif;
+  font-family: 'Inter', sans-serif;
+  font-family: 'Varela Round', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
   background: #f5f5f5;
+}
+
+.material-icons {
+  font-family: 'Inter', sans-serif;
 }
 
 .container {
@@ -95,3 +103,106 @@ body {
   line-height: 67px;
 }
 
+.wrap {
+  background-image: url(./images/placeholder.png);
+  background-repeat: no-repeat;
+  background-position: 35px;
+  background-size: auto;
+  background-attachment: scroll;
+}
+
+.heading {
+  color: #091e42;
+  fill: solid;
+  line-height: 108%;
+  font-family: 'Varela Round', sans-serif;
+  font-display: 20px;
+  position: relative;
+  top: 170px;
+  left: 35px;
+  vertical-align: center;
+}
+
+.text {
+  color: #091e42;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  width: 327px;
+  height: 147px;
+  line-height: 124%;
+  position: relative;
+  left: 40px;
+  top: 180px;
+  align-self: auto;
+  display: block;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 45px;
+}
+
+.button {
+  display: flex;
+  gap: 10px;
+  row-gap: 10px;
+  position: relative;
+  top: 170px;
+  height: 60px;
+  width: 375px;
+  justify-content: center;
+  left: 40px;
+}
+
+.button1 {
+  height: 40px;
+  width: 49px;
+  stroke: solid;
+  color: #8993a4;
+  background: #ffff;
+  border-color: #8993a4;
+  -webkit-text-fill-color: #091e42;
+}
+
+.button2 {
+  width: 56px;
+  height: 40px;
+  stroke: solid;
+  color: #8993a4;
+  background-color: #ffff;
+  border-color: #8993a4;
+  -webkit-text-fill-color: #091e42;
+}
+
+.button3 {
+  width: 95px;
+  height: 40px;
+  background-color: #ffff;
+  border-color: #8993a4;
+  color: #8993a4;
+  -webkit-text-fill-color: #091e42;
+}
+
+.button4 {
+  width: 61px;
+  height: 40px;
+  color: #8993a4;
+  background-color: #ffff;
+  stroke: solid;
+  border-color: #8993a4;
+  -webkit-text-fill-color: #091e42;
+}
+
+.button5 {
+  width: 124px;
+  height: 40px;
+  background-color: #ff6b00;
+  color: #fff;
+  border-color: #ff6b00;
+  align-self: flex-end;
+  position: relative;
+  top: 35px;
+  right: 270px;
+}
