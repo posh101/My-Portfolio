@@ -102,3 +102,1274 @@ body {
   font-size: 60px;
   line-height: 67px;
 }
+
+.wrap {
+  height: 750px;
+  width: 390px;
+  background-color: #fff;
+}
+
+.img {
+  height: 237px;
+  width: 400px;
+  padding-left: 35px;
+  padding-top: 80px;
+}
+
+.main {
+  font-family: 'Inter', sans-serif;
+  font-size: 40px;
+  color: #091e42;
+  margin-top: 60px;
+  padding-left: 35px;
+}
+
+.line {
+  margin-top: 20px;
+  margin-left: 35px;
+}
+
+.heading2 {
+  margin-top: 100px;
+  margin-left: 35px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #091e42;
+}
+
+.text {
+  font-family: 'Inter', sans-serif;
+  padding-left: 33px;
+  margin-top: 20px;
+  word-wrap: break-word;
+  height: 147px;
+  width: 327px;
+}
+
+.button2 {
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  display: flex;
+  padding-left: 35px;
+  gap: 10px;
+  padding-bottom: 30px;
+  list-style-type: none;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.css {
+  list-style-type: none;
+  width: 49px;
+  height: 40px;
+  border: 2px solid #8993a4;
+  color: #091e42;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.html {
+  list-style-type: none;
+  width: 56px;
+  height: 40px;
+  border: 2px solid #8993a4;
+  color: #091e42;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bootstrap {
+  width: 95px;
+  height: 40px;
+  border: 2px #8993a4 solid;
+  color: #091e42;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ruby {
+  width: 61px;
+  height: 40px;
+  border: 2px solid #8993a4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.see {
+  font-family: 'Inter', sans-serif;
+  font-size: 17px;
+  font-weight: bolder;
+  text-align: center;
+  color: white;
+  gap: 10px;
+  padding: 12px;
+  position: relative;
+  top: 10px;
+  left: 1px;
+  width: 124px;
+  height: 48px;
+  background-color: #ff6b00;
+}
+
+.wrap27 {
+  background-color: #fff;
+  height: 480px;
+  background-image: url(./images/gradient.png);
+  background-repeat: no-repeat;
+  background-position: 30px 50px;
+  box-sizing: content-box;
+}
+
+.art99 {
+  padding-left: 50px;
+  padding-top: 150px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.data99 {
+  padding-left: 50px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.text20 {
+  width: 270px;
+  height: 87px;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 50px;
+  word-wrap: break-word;
+  color: #fff;
+}
+
+.prog-item22 {
+  display: flex;
+  margin-top: 2px;
+  color: white;
+  list-style-type: none;
+  padding-top: 30px;
+  padding-left: 50px;
+  gap: 10px;
+  flex-wrap: wrap;
+  border: #fff;
+}
+
+.html111 {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 56px;
+  background-color: #54626f;
+  gap: 10px;
+}
+
+.boot110 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 95px;
+  gap: 10px;
+}
+
+.ruby12 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 61px;
+}
+
+.see-11 {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  height: 48px;
+  width: 327px;
+  background-color: #ff6b00;
+  color: #fff;
+  text-align: center;
+  margin-top: 28px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap3 {
+  background-color: #fff;
+  height: 490px;
+  background-image: url(./images/gradient.png);
+  background-repeat: no-repeat;
+  background-position: 30px 50px;
+  box-sizing: content-box;
+}
+
+.art11 {
+  padding-left: 50px;
+  padding-top: 150px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.data1 {
+  padding-left: 50px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.text3 {
+  width: 270px;
+  height: 87px;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 50px;
+  word-wrap: break-word;
+  color: #fff;
+}
+
+.prog-item1 {
+  display: flex;
+  margin-top: 2px;
+  color: white;
+  list-style-type: none;
+  padding-top: 30px;
+  padding-left: 50px;
+  gap: 10px;
+  flex-wrap: wrap;
+  border: #fff;
+}
+
+.html2 {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 56px;
+  background-color: #54626f;
+  gap: 10px;
+}
+
+.boot2 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 95px;
+  gap: 10px;
+}
+
+.ruby2 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 61px;
+}
+
+.see2 {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  height: 48px;
+  width: 327px;
+  background-color: #ff6b00;
+  color: #fff;
+  text-align: center;
+  margin-top: 28px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap29 {
+  background-color: #fff;
+  height: 490px;
+  background-image: url(./images/gradient.png);
+  background-repeat: no-repeat;
+  background-position: 30px 50px;
+  box-sizing: content-box;
+}
+
+.art9 {
+  padding-left: 50px;
+  padding-top: 150px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.data9 {
+  padding-left: 50px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.text22 {
+  width: 270px;
+  height: 87px;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 50px;
+  word-wrap: break-word;
+  color: #fff;
+}
+
+.prog-item19 {
+  display: flex;
+  margin-top: 2px;
+  color: white;
+  list-style-type: none;
+  padding-top: 30px;
+  padding-left: 50px;
+  gap: 10px;
+  flex-wrap: wrap;
+  border: #fff;
+}
+
+.html11 {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 56px;
+  background-color: #54626f;
+  gap: 10px;
+}
+
+.boot12 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 95px;
+  gap: 10px;
+}
+
+.ruby14 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 61px;
+}
+
+.see11 {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  height: 48px;
+  width: 327px;
+  background-color: #ff6b00;
+  color: #fff;
+  text-align: center;
+  margin-top: 28px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap44 {
+  background-color: #fff;
+  height: 490px;
+  background-image: url(./images/gradient.png);
+  background-repeat: no-repeat;
+  background-position: 30px 50px;
+  box-sizing: content-box;
+}
+
+.prof-art3 {
+  padding-left: 50px;
+  padding-top: 120px;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  color: #fff;
+}
+
+.data2 {
+  padding-left: 80px;
+  font-family: 'Inter', sans-serif;
+  color: #fff;
+  font-size: 32px;
+}
+
+.text4 {
+  width: 270px;
+  height: 87px;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 50px;
+  word-wrap: break-word;
+  color: #fff;
+}
+
+.prog-item3 {
+  display: flex;
+  margin-top: 2px;
+  color: white;
+  list-style-type: none;
+  padding-top: 50px;
+  padding-left: 50px;
+  gap: 10px;
+  flex-wrap: wrap;
+  border: #fff;
+}
+
+.html3 {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 56px;
+  background-color: #54626f;
+  gap: 10px;
+}
+
+.boot3 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 95px;
+  gap: 10px;
+}
+
+.ruby3 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 61px;
+}
+
+.see3 {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  height: 48px;
+  width: 327px;
+  background-color: #ff6b00;
+  color: #fff;
+  text-align: center;
+  margin-top: 25px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap28 {
+  background-color: #fff;
+  height: 490px;
+  background-image: url(./images/gradient.png);
+  background-repeat: no-repeat;
+  background-position: 30px 50px;
+  box-sizing: content-box;
+}
+
+.art22 {
+  padding-left: 50px;
+  padding-top: 150px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.data-001 {
+  padding-left: 50px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.tex-002 {
+  width: 270px;
+  height: 87px;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 50px;
+  word-wrap: break-word;
+  color: #fff;
+}
+
+.prog-item009 {
+  display: flex;
+  margin-top: 2px;
+  color: white;
+  list-style-type: none;
+  padding-top: 30px;
+  padding-left: 50px;
+  gap: 10px;
+  flex-wrap: wrap;
+  border: #fff;
+}
+
+.html100 {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 56px;
+  background-color: #54626f;
+  gap: 10px;
+}
+
+.boot11 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 95px;
+  gap: 10px;
+}
+
+.ruby-1 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 61px;
+}
+
+.see-122 {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  height: 48px;
+  width: 327px;
+  background-color: #ff6b00;
+  color: #fff;
+  text-align: center;
+  margin-top: 28px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap4 {
+  background-color: #fff;
+  height: 490px;
+  background-image: url(./images/gradient.png);
+  background-repeat: no-repeat;
+  background-position: 30px 50px;
+  box-sizing: content-box;
+}
+
+.art4 {
+  padding-left: 50px;
+  padding-top: 120px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.data4 {
+  padding-left: 50px;
+  font-family: 'Inter', sans-serif;
+  color: #fff;
+  font-size: 32px;
+}
+
+.text5 {
+  width: 270px;
+  height: 87px;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 50px;
+  word-wrap: break-word;
+  color: #fff;
+}
+
+.prog-item4 {
+  display: flex;
+  margin-top: 2px;
+  color: white;
+  list-style-type: none;
+  padding-top: 50px;
+  padding-left: 50px;
+  gap: 10px;
+  flex-wrap: wrap;
+  border: #fff;
+}
+
+.html4 {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 56px;
+  background-color: #54626f;
+  gap: 10px;
+}
+
+.boot4 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 95px;
+  gap: 10px;
+}
+
+.ruby4 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 61px;
+}
+
+.see4 {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  height: 48px;
+  width: 327px;
+  background-color: #ff6b00;
+  color: #fff;
+  text-align: center;
+  margin-top: 28px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap2 {
+  background-color: #fff;
+  height: 490px;
+  background-image: url(./images/gradient.png);
+  background-repeat: no-repeat;
+  background-position: 30px 50px;
+  box-sizing: content-box;
+}
+
+.art {
+  padding-left: 50px;
+  padding-top: 150px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.data {
+  padding-left: 50px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.text2 {
+  width: 270px;
+  height: 87px;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 50px;
+  word-wrap: break-word;
+  color: #fff;
+}
+
+.prog-item {
+  display: flex;
+  margin-top: 2px;
+  color: white;
+  list-style-type: none;
+  padding-top: 30px;
+  padding-left: 50px;
+  gap: 10px;
+  flex-wrap: wrap;
+  border: #fff;
+}
+
+.html1 {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 56px;
+  background-color: #54626f;
+  gap: 10px;
+}
+
+.boot1 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 95px;
+  gap: 10px;
+}
+
+.ruby11 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 61px;
+}
+
+.see12 {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  height: 48px;
+  width: 327px;
+  background-color: #ff6b00;
+  color: #fff;
+  text-align: center;
+  margin-top: 28px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap5 {
+  background-color: #fff;
+  height: 490px;
+  background-image: url(./images/gradient.png);
+  background-repeat: no-repeat;
+  background-position: 30px 50px;
+  box-sizing: content-box;
+}
+
+.art5 {
+  padding-left: 50px;
+  padding-top: 120px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.data5 {
+  padding-left: 50px;
+  font-family: 'Inter', sans-serif;
+  color: #fff;
+  font-size: 32px;
+}
+
+.text6 {
+  width: 270px;
+  height: 87px;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 50px;
+  word-wrap: break-word;
+  color: #fff;
+}
+
+.prog-item5 {
+  display: flex;
+  margin-top: 2px;
+  color: white;
+  list-style-type: none;
+  padding-top: 50px;
+  padding-left: 50px;
+  gap: 10px;
+  flex-wrap: wrap;
+  border: #fff;
+}
+
+.html5 {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 56px;
+  background-color: #54626f;
+  gap: 10px;
+}
+
+.boot5 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 95px;
+  gap: 10px;
+}
+
+.ruby5 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 61px;
+}
+
+.see5 {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  height: 48px;
+  width: 327px;
+  background-color: #ff6b00;
+  color: #fff;
+  text-align: center;
+  margin-top: 28px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap6 {
+  background-color: #fff;
+  height: 620px;
+  background-image: url(./images/gradient.png);
+  background-repeat: no-repeat;
+  background-position: 30px 50px;
+  box-sizing: content-box;
+}
+
+.art6 {
+  padding-left: 50px;
+  padding-top: 120px;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  color: #fff;
+}
+
+.data6 {
+  padding-left: 50px;
+  font-family: 'Inter', sans-serif;
+  color: #fff;
+  font-size: 32px;
+}
+
+.text7 {
+  width: 270px;
+  height: 87px;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 50px;
+  word-wrap: break-word;
+  color: #fff;
+}
+
+.prog-item6 {
+  display: flex;
+  margin-top: 2px;
+  color: white;
+  list-style-type: none;
+  padding-top: 50px;
+  padding-left: 50px;
+  gap: 10px;
+  flex-wrap: wrap;
+  border: #fff;
+}
+
+.html6 {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  width: 56px;
+  background-color: #54626f;
+  gap: 10px;
+}
+
+.boot6 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 95px;
+  gap: 10px;
+}
+
+.ruby6 {
+  background-color: #54626f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 61px;
+}
+
+.see6 {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  height: 48px;
+  width: 327px;
+  background-color: #ff6b00;
+  color: #fff;
+  text-align: center;
+  margin-top: 28px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.head-style {
+  height: 800px;
+  background-color: #1c1a19;
+  background-image: url(./images/Frame.png);
+  background-repeat: no-repeat;
+  background-position: 100% 80%;
+}
+
+.head-h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: #ff6b00;
+  padding-top: 150px;
+  padding-left: 10px;
+}
+
+.hello {
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  color: #f4f5f7;
+  word-wrap: break-word;
+  margin-top: 20px;
+  margin-left: 18px;
+}
+
+.get {
+  height: 48px;
+  width: 161px;
+  background-color: #ff6b00;
+  font-family: 'Inter', sans-serif;
+  color: #fff;
+  position: relative;
+  left: 15px;
+  top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.line2 {
+  position: relative;
+  left: 980px;
+  top: 240px;
+  width: 327px;
+}
+
+.head-lang {
+  background-color: #1c1a19;
+  height: 2200;
+  width: 375;
+}
+
+.lang7 {
+  list-style-image: url(./images/rectangle.png);
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  color: #fff;
+  padding-left: 25%;
+  padding-top: 50px;
+  gap: 60px;
+}
+
+.lang6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.js {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 20px;
+}
+
+.rb {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 40px;
+}
+
+.ht {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 40px;
+}
+
+.cs {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 40px;
+}
+
+.head-lang2 {
+  height: 1000;
+  background-color: #1c1a19;
+}
+
+.lang8 {
+  list-style-image: url(./images/Rectangle\ 56.png);
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  color: #fff;
+  padding-left: 25%;
+  padding-top: 50px;
+}
+
+.strap {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.rails {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 5px;
+}
+
+.rsp {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 35px;
+}
+
+.bara {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 18px;
+}
+
+.sel {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 22px;
+}
+
+.head-lang3 {
+  background-color: #1c1a19;
+  height: 600px;
+}
+
+.lang9 {
+  list-style-image: url(./images/circle.png);
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  color: #fff;
+  padding-left: 32%;
+  padding-top: 50px;
+}
+
+.skill {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.kit {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 5px;
+}
+
+.git {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 5px;
+}
+
+.pen {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-right: 10px;
+}
+
+.lab {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 8px;
+}
+
+.ter {
+  list-style: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-right: 20px;
+}
+
+.new-section {
+  background-color: #fff;
+  height: 1000px;
+}
+
+.new-header {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  color: #172b4d;
+  width: 327px;
+  height: 216px;
+  padding-top: 100px;
+  padding-left: 50px;
+}
+
+.nam {
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  width: 295px;
+  height: 18px;
+  color: #979493;
+  padding-top: 150px;
+  padding-left: 50px;
+}
+
+.email {
+  margin-top: 80px;
+  margin-left: 50px;
+  color: #979493;
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  height: 18px;
+  width: 295px;
+}
+
+.line5 {
+  height: 1px;
+  width: 327px;
+  color: #dbd8d7;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.line4 {
+  height: 1px;
+  margin-top: 20px;
+  position: relative;
+  right: 20px;
+  color: #dbd8d7;
+  width: 327px;
+}
+
+.text-area {
+  margin-top: 50px;
+  margin-left: 30px;
+  background-color: #fbf8f7;
+  height: 114px;
+  width: 327px;
+}
+
+.touch {
+  height: 48px;
+  width: 131px;
+  background-color: #ff6b00;
+  color: white;
+  font-weight: bold;
+  position: relative;
+  left: 120px;
+  top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.line6 {
+  width: 375;
+  height: 1px;
+  color: #dfe1e6;
+  margin-top: 170px;
+}
+
+.social5 {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.hub2 {
+  position: relative;
+  right: 30px;
+  top: 10px;
+}
+
+.din2 {
+  position: relative;
+  right: 20px;
+}
+
+.list1 {
+  position: relative;
+  right: 20px;
+  top: 10px;
+}
+
+.icon {
+  position: relative;
+  right: 10px;
+  top: 10px;
+}
+
+.diu {
+  position: relative;
+  right: 10px;
+}
